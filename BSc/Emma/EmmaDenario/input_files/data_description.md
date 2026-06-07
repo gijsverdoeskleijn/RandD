@@ -1,0 +1,1 @@
+Can stellar occultation observations of known asteroids which have high perihelion precession improve the constraints on perihelion precession so much that it provides constraints on Parametric Post Newtonian formalism parameter beta and on the Sun’s gravitational quadrupole moment J_2,Sun?
